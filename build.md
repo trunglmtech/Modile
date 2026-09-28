@@ -1,3 +1,4 @@
+GooglePhotos: 7.94.0.984908898  
 Music-Morphe (arm64-v8a): 9.15.51  
 Music-Morphe (arm-v7a): 9.15.51  
 Reddit-Morphe: 2026.14.0  
